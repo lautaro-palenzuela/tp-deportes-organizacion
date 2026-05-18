@@ -1,0 +1,8 @@
+local,visitante,goles_local,goles_visitante,fecha
+River,Boca,2,1,2025-01-01
+Boca,River,0,0,2025-02-01
+Independiente,Racing,3,2,2025-01-15
+Racing,Independiente,1,1,2025-02-15
+River,Independiente,4,0,2025-03-01
+Boca,Racing,2,2,2025-03-10
+River,Boca,3,1,2025-03-20
