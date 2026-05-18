@@ -57,3 +57,4 @@ plt.xlabel('Equipo')
 plt.ylabel('Puntos')
 plt.savefig('resultados/puntos_equipos.png')
 print("Gráfico guardado en /resultados")
+# Revisión técnica: se podría validar existencia de datos nulos
